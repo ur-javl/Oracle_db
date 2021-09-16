@@ -1,0 +1,24 @@
+NL-08014: Message 8014 not found; No message file for product=network, facility=NL	   []
+ NL-08015: Message 8015 not found; No message file for product=network, facility=NL
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48187] [/database/ora_db]
+
+
+
+***********************************************************************
+Fatal NI connect error 12505, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.1.150)(PORT=1521))(CONNECT_DATA=(SID=:orcl)(CID=(PROGRAM=Python)(HOST=iMac-Sergey)(USER=sergey))))
+
+  VERSION INFORMATION:
+	TNS for MacOS X Server: Version 19.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for MacOS X Server: Version 19.0.0.0.0 - Production
+  Version 19.8.0.0.0
+  Time: 25-AUG-2021 13:08:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: Message 12564 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
